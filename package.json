@@ -1,0 +1,31 @@
+{
+  "name": "@c4rl0sbr4v0/gutenberg-faqs-done-simple",
+  "version": "1.0.0",
+  "description": "Gutenberg FAQs done simple",
+  "main": "index.js",
+  "dependencies": {
+    "@wordpress/blocks": "^6.12.1"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^7.1.3"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c4rl0sbr4v0/gutenberg-faqs-done-simple.git"
+  },
+  "keywords": [
+    "gutenberg",
+    "faqs"
+  ],
+  "author": "c4rl0sbr4v0",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/c4rl0sbr4v0/gutenberg-faqs-done-simple/issues"
+  },
+  "homepage": "https://github.com/c4rl0sbr4v0/gutenberg-faqs-done-simple#readme"
+}
